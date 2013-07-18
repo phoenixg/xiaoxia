@@ -20,3 +20,28 @@ http://etherpad.org/
 - 英式
 
 ### 拼词法等技巧
+
+<hr />
+
+# 20130718 SUMMARY(20)
+- alter ['ɔ:ltə]  v. 变更 
+- burst ['bə:ðən]  vi.,n. 突然发生、爆裂 
+- dispose of [dis'pəuz]  vi. 处置掉
+- blast [blɑ:st] n. 爆炸 
+- consume [kən'sju:m] v. 消耗
+- split [split] v. 劈开 
+- spit [spit] v. 吐 
+- spill [spil] v. 溢出 
+- slip [slip] v. 滑落 
+- slide [slaid] v. 滑动
+- bacteria [bæk'tiəriə] n. 细菌 
+- breed [bri:d] n. 繁殖
+- budget ['bʌdʒit] n. 预算
+- candidate ['kændidit] n. 候选人 
+- campus ['kæmpəs] n. 校园 
+- liberal ['libərəl] a. 自由的 
+- transform [træns'fɔ:m] v. 转变 
+- transmit [trænz'mit] v. 传播 
+- transplant [træns'plɑ:nt] v. 移植 
+- transport [træns'pɔ:t] vt. 运输
+
